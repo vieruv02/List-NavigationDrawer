@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Part1</string>
+    <string name="thumbnail">Image</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="delete_image">Delete</string>
+    <string name="add_image">Add</string>
+    <string name="profile">profile</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+</resources>

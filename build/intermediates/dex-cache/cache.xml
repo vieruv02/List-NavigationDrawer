@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_67af6140b73e8addbaee0eba166c6a708b01627d.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_614282ea3e1c920e4583b50a32b7997e1a2a04a2.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_b95518f444cac1117e3af1d6946435044645e25c.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_3ea414c12c55b24a2f344e4043d2bef3a70301ed.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_a6148425700d3ca57285b7e56d94943a4e607b98.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_4cb6ad7ba922810f67593f1e4fa02e3721c6634a.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_4f4cbedce1c8df7416726b3d5c6c85308890c177.jar" />
+    </item>
+    <item
+        jar="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/vladvieru/Desktop/School/Android Studio projects/AndroidStudio/PluralSight/Android Material Design/Part1/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_9fd8a54a0600806ef7a35d1b906f1a2f120b481a.jar" />
+    </item>
+
+</items>
